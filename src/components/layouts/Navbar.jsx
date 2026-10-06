@@ -10,7 +10,7 @@ import {
 
 import Button from "../common/Button";
 import Container from "../common/Container";
-import Logo from "../common/Logo";
+import Logo from "../common/logo";
 import navigation from "../../data/navigation";
 
 function Navbar() {

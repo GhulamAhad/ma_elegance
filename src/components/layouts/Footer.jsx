@@ -7,7 +7,7 @@ import {
 import { Link } from "react-router-dom";
 
 import footerLinks from "../../data/footerLinks";
-import Logo from "../common/Logo";
+import Logo from "../common/logo";
 import Container from "../common/Container";
 
 function Footer() {
